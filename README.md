@@ -23,10 +23,19 @@ The task is to build a model that can accurately predict one of **4 possible cat
 
 ## 🗂️ Dataset Description
 
+## 📥 Dataset
+
+The dataset is very large (~26 GB). It is not stored in this repository.
+
+### How to Download:
+- Download the full dataset from **Kaggle**:  
+https://www.kaggle.com/competitions/comment-category-prediction-challenge/data
+
 ### Files Included:
 - `train.csv` — Training dataset with target variable
 - `test.csv` — Test dataset (without labels)
 - `sample_submission.csv` — Correct submission format
+- 
 
 ### Important Columns:
 
